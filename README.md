@@ -72,4 +72,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Enjoy playing the Two-Player Dice Game and have a blast competing with your friends. May the best roller win!
+Enjoy playing the Two-Player Dice Game and have a blast competing with your friends. May the best roller win!!
