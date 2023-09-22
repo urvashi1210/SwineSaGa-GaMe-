@@ -12,15 +12,15 @@ Follow these steps to set up and play the game:
 
 1. Clone this GitHub repository to your local machine:
 
-    ```sh
+   
     git clone https://github.com/your-username/two-player-dice-game.git
-    ```
+   
 
-2. Open the project folder in your preferred code editor or development environment.
+3. Open the project folder in your preferred code editor or development environment.
 
-3. Launch the game by opening the `index.html` file in a web browser or using a local server.
+4. Launch the game by opening the `index.html` file in a web browser or using a local server.
 
-4. You are now ready to play the Two-Player Dice Game with a friend!
+5. You are now ready to play the Two-Player Dice Game with a friend!
 
 ## How to Play
 
