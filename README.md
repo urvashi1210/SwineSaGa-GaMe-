@@ -1,4 +1,4 @@
-# SwineSaGa-GaMe-
+# SwineSaGa-GaMe!
 
 Welcome to the Two-Player Dice Game, a fun and interactive game where two players take turns rolling dice to compete for victory. This README provides essential information to help you get started with the game.
 
